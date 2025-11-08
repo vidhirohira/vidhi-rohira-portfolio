@@ -52,13 +52,13 @@ const About = () => {
           <div className="flex items-center justify-center">
             <div className="w-full max-w-md aspect-square rounded-2xl bg-gradient-to-br from-secondary via-card to-secondary/50 border-2 border-primary/20 flex items-center justify-center">
               <div className="text-center p-8">
-                <div className="w-48 h-48 rounded-full bg-primary/10 border-4 border-primary/30 mx-auto mb-4 flex items-center justify-center">
-                  <span className="text-6xl font-bold text-primary">VR</span>
-                </div>
-                <p className="text-sm text-muted-foreground">Profile photo placeholder</p>
-                <p className="text-xs text-muted-foreground mt-1">Replace with your photo</p>
-              </div>
-            </div>
+                  <img
+                      src="/images/profile.jpg"
+                      alt="Vidhi Rohira"
+                      className="w-48 h-48 rounded-full object-cover border-4 border-primary/30 mx-auto mb-4 shadow-lg hover:scale-105 transition-transform"
+                    />
+                    <p className="text-sm text-muted-foreground">Vidhi Rohira</p>
+                  </div>
           </div>
         </div>
       </div>
