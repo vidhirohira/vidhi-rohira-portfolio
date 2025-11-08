@@ -39,7 +39,7 @@
       ]
     },
     {
-      "title": "SustainHub - GSoC 2024",
+      "title": "SustainHub - Google Summer of Code 2025",
       "description": "Agent-based simulation for sustainable open-source communities using reinforcement learning algorithms (MAB, SARSA). Achieved Harmony Index of ~0.8.",
       "tech": ["Python", "Mesa", "RL Algorithms", "Data Analysis"],
       "highlights": [
