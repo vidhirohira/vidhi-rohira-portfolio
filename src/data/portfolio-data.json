@@ -13,7 +13,7 @@
     "education": {
       "institution": "Veermata Jijabai Technological Institute (VJTI)",
       "degree": "B.Tech in Computer Engineering",
-      "duration": "2022 - 2026",
+      "duration": "2023 - 2027",
       "cgpa": "8.84"
     }
   },
@@ -54,7 +54,7 @@
     {
       "title": "Google Summer of Code Contributor",
       "organization": "International Neuroinformatics Coordinating Facility (INCF) - OREL",
-      "duration": "May 2024 - Sept 2024",
+      "duration": "May 2025 - Sept 2025",
       "description": "Developed agent-based simulation for open-source community sustainability using reinforcement learning.",
       "achievements": [
         "Implemented MAB and SARSA algorithms",
@@ -65,7 +65,7 @@
     {
       "title": "Research Assistant",
       "organization": "Orthogonal Research and Education Laboratory (OREL)",
-      "duration": "Jan 2024 - Present",
+      "duration": "Sept 2025 - Present",
       "description": "Contributing to research in agent-based modeling and reinforcement learning applications.",
       "achievements": [
         "Collaborated on multiple research projects",
@@ -94,17 +94,17 @@
     {
       "title": "ADA LOVELACE - Qualified Round 2",
       "description": "Advanced to second round of national-level coding competition",
-      "year": "2024"
+      "year": "2025"
     },
     {
       "title": "Trek Medal Winner",
       "description": "Completed challenging trek expeditions",
-      "year": "2023-2024"
+      "year": "2024"
     },
     {
       "title": "Performance Medal - Cultural Events",
       "description": "Recognized for outstanding performance in cultural activities",
-      "year": "2023"
+      "year": "2024"
     }
   ],
   "leadership": [
