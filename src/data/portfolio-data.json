@@ -1,0 +1,126 @@
+{
+  "personal": {
+    "name": "Vidhi Rohira",
+    "tagline": "Software Engineer & HCI Enthusiast",
+    "email": "rohiravidhi@gmail.com",
+    "phone": "+91 96191 84233",
+    "linkedin": "https://linkedin.com/in/vidhi-rohira",
+    "github": "https://github.com/vidhirohira",
+    "location": "Mumbai, India"
+  },
+  "about": {
+    "description": "Computer Engineering student at VJTI with a passion for Human-Computer Interaction, Reinforcement Learning, and building accessible web applications. Experienced in full-stack development and agent-based simulations.",
+    "education": {
+      "institution": "Veermata Jijabai Technological Institute (VJTI)",
+      "degree": "B.Tech in Computer Engineering",
+      "duration": "2022 - 2026",
+      "cgpa": "8.84"
+    }
+  },
+  "projects": [
+    {
+      "title": "Super MaRLo Bros",
+      "description": "Developed an RL-based game using PPO algorithm with tailored reward function. Achieved 7/10 successful runs through strategic hyperparameter tuning.",
+      "tech": ["Python", "PyGame", "Gymnasium", "Stable-Baselines3"],
+      "highlights": [
+        "Implemented PPO algorithm for game AI",
+        "Custom reward function design",
+        "70% success rate in gameplay"
+      ]
+    },
+    {
+      "title": "Virtual Interior Designer",
+      "description": "Created a web-based design assistant featuring furniture database with web scraping and color palette extraction using K-means clustering.",
+      "tech": ["Python", "HTML", "CSS", "ReactJs", "Web Scraping"],
+      "highlights": [
+        "Automated furniture database creation",
+        "K-means color palette extraction",
+        "35-50% design accuracy"
+      ]
+    },
+    {
+      "title": "SustainHub - GSoC 2024",
+      "description": "Agent-based simulation for sustainable open-source communities using reinforcement learning algorithms (MAB, SARSA). Achieved Harmony Index of ~0.8.",
+      "tech": ["Python", "Mesa", "RL Algorithms", "Data Analysis"],
+      "highlights": [
+        "Multi-agent reinforcement learning",
+        "Community sustainability metrics",
+        "Harmony Index: 0.8"
+      ],
+      "link": "https://github.com/Orthogonal-Research-Lab/Episteme-Explorer"
+    }
+  ],
+  "experience": [
+    {
+      "title": "Google Summer of Code Contributor",
+      "organization": "International Neuroinformatics Coordinating Facility (INCF) - OREL",
+      "duration": "May 2024 - Sept 2024",
+      "description": "Developed agent-based simulation for open-source community sustainability using reinforcement learning.",
+      "achievements": [
+        "Implemented MAB and SARSA algorithms",
+        "Created sustainability metrics framework",
+        "Published research findings"
+      ]
+    },
+    {
+      "title": "Research Assistant",
+      "organization": "Orthogonal Research and Education Laboratory (OREL)",
+      "duration": "Jan 2024 - Present",
+      "description": "Contributing to research in agent-based modeling and reinforcement learning applications.",
+      "achievements": [
+        "Collaborated on multiple research projects",
+        "Developed simulation frameworks",
+        "Presented at research meetings"
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "C/C++", "SQL", "HTML/CSS", "JavaScript", "ReactJs"],
+    "tools": ["VS Code", "Git/GitHub", "Jupyter", "Google Colab", "MongoDB"],
+    "frameworks": ["ReactJs", "Tailwind CSS", "PyGame", "Mesa", "Stable-Baselines3"],
+    "concepts": ["Reinforcement Learning", "Web Development", "Data Structures", "Algorithms", "HCI Design"]
+  },
+  "achievements": [
+    {
+      "title": "CodeHunt VJTI - Rank 4",
+      "description": "Secured 4th position in college-level coding competition",
+      "year": "2024"
+    },
+    {
+      "title": "DATAHACK 3.0 - Top 40",
+      "description": "Qualified among top 40 teams out of 300+ participants",
+      "year": "2024"
+    },
+    {
+      "title": "ADA LOVELACE - Qualified Round 2",
+      "description": "Advanced to second round of national-level coding competition",
+      "year": "2024"
+    },
+    {
+      "title": "Trek Medal Winner",
+      "description": "Completed challenging trek expeditions",
+      "year": "2023-2024"
+    },
+    {
+      "title": "Performance Medal - Cultural Events",
+      "description": "Recognized for outstanding performance in cultural activities",
+      "year": "2023"
+    }
+  ],
+  "leadership": [
+    {
+      "role": "Mentor & Core Head",
+      "organization": "Community of Coders, VJTI",
+      "duration": "2023 - Present",
+      "description": "Leading coding community initiatives and mentoring junior students",
+      "impact": "200+ students engaged"
+    },
+    {
+      "role": "Department Head",
+      "organization": "Pratibimb - Annual Magazine, VJTI",
+      "duration": "2023 - Present",
+      "description": "Managing department operations and coordinating events",
+      "impact": "600+ event attendees"
+    }
+  ]
+}
