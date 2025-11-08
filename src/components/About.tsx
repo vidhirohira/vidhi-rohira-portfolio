@@ -59,6 +59,7 @@ const About = () => {
                     />
                     <p className="text-sm text-muted-foreground">Vidhi Rohira</p>
                   </div>
+              </div>
           </div>
         </div>
       </div>
