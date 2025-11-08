@@ -54,7 +54,7 @@ const About = () => {
               <div className="text-center p-8">
                   <img
                       src="/images/profile.jpg"
-                      alt="Vidhi Rohira"
+                      alt="Vidhi Rohira "
                       className="w-48 h-48 rounded-full object-cover border-4 border-primary/30 mx-auto mb-4 shadow-lg hover:scale-105 transition-transform"
                     />
                     <p className="text-sm text-muted-foreground">Vidhi Rohira</p>
