@@ -31,11 +31,7 @@ const Index = () => {
         <About />
         
         {/* HCI Demonstrations Section */}
-        <div id="hci">
-          <GuiRequirements />
-          <VisualPrinciples />
-          <RuleOfThirds />
-        </div>
+        
         
         {/* Portfolio Content */}
         <Projects />
@@ -43,6 +39,11 @@ const Index = () => {
         <Skills />
         <Achievements />
         <Leadership />
+        <div id="hci">
+          <GuiRequirements />
+          <VisualPrinciples />
+          <RuleOfThirds />
+        </div>
         <Contact />
       </main>
       
